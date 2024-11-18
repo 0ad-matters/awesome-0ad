@@ -14,11 +14,11 @@ Collection of awesome resources related to [0ad](https://play0ad.com/)
 ## Mods
 
 - [10ad](https://github.com/0ad-matters/10ad) (a26) - All upgrades from the storehouse, farmstead, and house are researched (for free) at the beginning of the game.
-- [Delenda Est](https://github.com/JustusAvramenko/delenda_est)(dev) - An overhaul mod.
+- [Delenda Est](https://github.com/JustusAvramenko/delenda_est) (dev) - An overhaul mod.
 
 ### User Interface
 
-- [autociv](https://github.com/nanihadesuka/autociv)(dev) - An aggregation of features meant to enhance the 0 A.D. game experience.
+- [autociv](https://github.com/nanihadesuka/autociv) (dev) - An aggregation of features meant to enhance the 0 A.D. game experience.
 
 ## Streamers
 
