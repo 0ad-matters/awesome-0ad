@@ -6,13 +6,18 @@ Collection of awesome resources related to [0ad](https://play0ad.com/)
 ## Contents
 
 - [Mods](#mods)
+  - [User Interface](#user-interface)
 - [Streamers](#streamers)
 - [Miscellaneous](#miscellaneous)
 - [Unofficial Forums and chat](#unofficial-forums-and-chat)
 
 ## Mods
 
-- [Delenda Est](https://github.com/JustusAvramenko/delenda_est) - An overhaul mod.
+- [Delenda Est](https://github.com/JustusAvramenko/delenda_est)(dev) - An overhaul mod.
+
+### User Interface
+
+- [autociv](https://github.com/nanihadesuka/autociv)(dev) - An aggregation of features meant to enhance the 0 A.D. game experience.
 
 ## Streamers
 
