@@ -26,6 +26,8 @@ Collection of awesome resources related to [0ad](https://play0ad.com/)
 
 ## Miscellaneous
 
+- [Replay Pallas](https://replay-pallas.wildfiregames.ovh/Replays) - Aims to help players share their replays to make them more accessible.
+
 
 ## Unofficial Forums and chat
 
