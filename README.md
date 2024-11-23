@@ -15,6 +15,7 @@ Collection of awesome resources related to [0ad](https://play0ad.com/)
 
 - [10ad](https://github.com/0ad-matters/10ad) (a26) - All upgrades from the storehouse, farmstead, and house are researched (for free) at the beginning of the game.
 - [Delenda Est](https://github.com/JustusAvramenko/delenda_est) (dev) - An overhaul mod.
+- [Grapejuice](https://github.com/Grapjas93/grapejuice) (a26) - A gameplay overhaul mod that aims to increase realism.
 - [Hyrule Conquest](https://www.moddb.com/mods/hyrule-conquest) (a26) - Set within the fantasy setting of Hyrule, command one of two dozen factions from the Zelda mythos.
 
 ### User Interface
